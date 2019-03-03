@@ -1,0 +1,131 @@
+/* font */
+@font-face
+{
+    font-family:'Uknow';
+    src: url(../fonts/codebold.ttf) format('truetype');
+
+}
+@font-face
+{
+    font-family:'codelight';
+    src: url(../fonts/codelight.ttf) format('truetype');
+
+}
+/* ------------------------------ */
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	margin: 0;
+	padding: 0;
+}
+main {
+	height: auto;
+}
+
+
+
+/* ABOUT ME */
+.bigtitle {
+	padding-left: 3%;
+	font-family: codelight;
+	font-weight: bold;
+}
+.bigtitle h1 {
+	font-family: Uknow;
+	font-size: 5em;
+	max-width: 9em;
+	padding: 10px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.35), 0 3px 6px rgba(0,0,0,0.45);
+}
+.bigtitle h1:hover {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.57), 0 3px 6px rgba(0,0,0,0.70);
+}
+.bigtitle p {
+	background-color: #000;
+	color: #FFF;
+	font-size: 2em;
+	padding-left: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	padding: 10px;
+}
+.bigtitle a {
+	text-decoration: none;
+	color: #FFF;
+
+}
+.bigtitle a:hover {
+	color: rgb(63, 66, 66);
+}
+#block1 {
+	height: auto;
+}
+
+.bigtitleproject {
+
+	font-family: codelight;
+	font-weight: bold;
+}
+.bigtitleproject h1 {
+	font-family: Uknow;
+	font-size: 5em;
+
+	text-align: center;
+
+	box-shadow: 0 3px 6px rgba(0,0,0,0.35), 0 3px 6px rgba(0,0,0,0.45);
+}
+.bigtitleproject h1:hover {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.57), 0 3px 6px rgba(0,0,0,0.70);
+}
+.bigtitleproject p {
+	background-color: #000;
+	color: #FFF;
+	font-size: 2em;
+	padding-left: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	padding: 10px;
+}
+.bigtitleproject a {
+	text-decoration: none;
+	color: #FFF;
+
+
+}
+.bigtitleproject a:hover {
+	color: rgb(63, 66, 66);
+}
+.smalltitle  {
+	display: inline-grid;
+
+	max-width: auto;
+}
+.language {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+
+}
+.smalltitle h1 {
+		padding: 15px;
+		margin: 20px;
+		color: #FFF;
+		background-color: #000;
+
+}
+#html h2, #nodejs h2, #arduino h2, #c h2 {
+
+	font-size: 2.5em;
+	padding-left: 30px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	padding: 10px;
+}
+
+#html h1, #nodejs h1, #arduino h1, #c h1 {
+	padding-left: 3%;
+}
+
+.github-cards {
+	padding-left: 5%;
+}

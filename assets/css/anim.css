@@ -1,0 +1,31 @@
+.tothetop {
+	position: fixed;
+	bottom: 2em;
+	right: 2em;
+	text-decoration: none;
+	max-width: 50px;
+	max-height: 50px;
+	padding: 1em;
+	display: none;
+	opacity: 0.5;
+}
+
+.tothetop:hover {
+	opacity:1;
+
+
+}
+
+.tothetop {
+
+
+animation-name: arrow;
+  animation-duration: 1.7s;
+  animation-iteration-count: infinite;
+}
+@keyframes arrow {
+
+  0%{transform: translateY(-5px);}
+  50%{transform: translateY(10px);}
+  100%{transform: translateY(-5px);}
+}
