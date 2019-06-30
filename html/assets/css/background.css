@@ -12,7 +12,7 @@
 	background-position: top;
 	background-attachment: fixed;
 }
-#footer_photo {
+#footer_CV {
 	background: url(../images/background3.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
@@ -95,7 +95,7 @@ background-attachment: fixed;
 height: 100vh;
 
 }
-#page_title_photo {
+#page_title_CV {
 background: url(../images/background3.jpg);
 background-size:cover;
 background-repeat:no-repeat;
