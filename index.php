@@ -29,14 +29,14 @@
                     <h1 data-aos="fade-right">Qui suis-je ?</h1>
                     <p data-aos="fade-down">
                             Je m'appelle Adalle Killyan, j'habite à Aubagne proche de Marseille<br/>
-                            Je suis en premiere année dans la formation Ingesup à Ynov, où j'apprend les bases du devellopements dans plusieurs domaines d'activité allant du réseau au dévellopement web.<br/>
+                            je suis en première année dans la formation Ingesup à Ynov, où j'apprends les bases du développement dans plusieurs domaines d'activité allant du réseau au développement web.<br/>
                     </p>
                     <h1 data-aos="fade-left">Mes passions</h1>
                     <p data-aos="fade-down">
-                            Je suis passionner par le Basketball, ainsi que par le skateboard qui sont deux activités que je pratique comme hobby avec des amis le weekend durant mon temps libre.<br/>
-                            Je suis aussi un consomateur de jeu video tel que "Csgo,League of legends ou encore Overwatch", ou il m'arrive de regarder des compétitions de joueurs professionels.<br/>
-                            Mais plus encore je suis passionner par l'informatique en géneral où il m'est arriver de creer mes propres projet pour differents raison.<br/>
-                            Et voici mon groupe favori<br/> 
+                             Je suis passionné par le basket-ball, ainsi que par le skateboard qui sont deux activités que je pratique comme hobby avec des amis le weekend durant mon temps libre</br>
+		    Je suis aussi un consommateur de jeu vidéo tel que "Csgo,League of legends ou encore Overwatch", où il m'arrive de regarder des compétitions de joueurs professionnels.</br>
+		    Mais plus encore je suis passionné par l'informatique en général où il m'est arrivé de creer mes propres projets pour différentes raisons.</br>
+		    Et voici mon groupe favori :</br> 
                     </p>
                     <iframe width="530" height="420" data-aos="fade-right"
                     src="https://www.youtube.com/embed/3DewzIv06IQ">
