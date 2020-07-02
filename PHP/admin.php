@@ -19,7 +19,7 @@ if (isset($_POST['pass']) && isset($_POST['user'])){
       }
 
       else{
-          echo("mauvais password");
+          echo("mauvais mot de passe");
       }
   }
   else{
